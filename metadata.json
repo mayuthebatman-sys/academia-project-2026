@@ -1,0 +1,6 @@
+{
+  "name": "Academic Assignment Generator",
+  "description": "An advanced academic assignment and presentation generator designed for Business students to study and generate course-aligned coursework.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
